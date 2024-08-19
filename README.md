@@ -31,7 +31,7 @@ To get started with the CTMFB mobile application, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/ctmfb-mobile-app.git
+   git clone https://github.com/victot0121/CTMFB-Mobile-Application.git
    cd ctmfb-mobile-app
    ```
 

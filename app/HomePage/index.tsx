@@ -59,7 +59,7 @@ const HomePage = () => {
             </View>
 
             <View>
-                <ServicesSection/>
+                <ServicesSection />
             </View>
         </SafeAreaView>
     )
@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
         paddingHorizontal: 10,
     },
     scrollDiv: {
-        width: width - 20, // Adjust this to match the screen width
+        width: width - 20,
         height: 200,
         marginTop: 1,
         backgroundColor: '#208220',
