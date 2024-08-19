@@ -95,7 +95,7 @@ If you wish to contribute to this project, please follow these guidelines:
 
 For any questions or clarifications, please contact:
 
-- **Hannah Ugheoke**: [Oyiga Victor](victoroyiga01@gmail.com)
+- **Oyiga Victor**: [Oyiga Victor](victoroyiga01@gmail.com)
 
 
 ## License
