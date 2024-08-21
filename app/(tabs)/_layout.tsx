@@ -4,6 +4,7 @@ import Octicons from '@expo/vector-icons/Octicons';
 import Feather from '@expo/vector-icons/Feather';
 import { Image, View, StyleSheet } from 'react-native';
 import MaterialIcons from '@expo/vector-icons/MaterialIcons';
+import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 
 
 
@@ -69,7 +70,7 @@ const TabLayout = () => {
                     tabBarLabel: "More",
                     headerShown: false,
                     tabBarIcon: ({ color, size }) => {
-                        return <MaterialIcons name="unfold-more-double" size={24} color={color} />
+                        return <MaterialCommunityIcons name="vector-square" size={size} color={color} />
                     },
                 }}
             />
