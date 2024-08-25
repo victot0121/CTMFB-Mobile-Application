@@ -95,8 +95,8 @@ If you wish to contribute to this project, please follow these guidelines:
 
 For any questions or clarifications, please contact:
 
-- **Hannah Ugheoke**: [Hannah.ugheoke@prunny.com](mailto:Hannah.ugheoke@prunny.com)
-- **Prunny Careers**: [careers@prunny.com](mailto:careers@prunny.com)
+- **Oyiga Victor**: [Oyiga Victor](victoroyiga01@gmail.com)
+
 
 ## License
 
